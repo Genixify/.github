@@ -1,3 +1,10 @@
+# Genixify
+
+![Genixify Logo](https://avatars.githubusercontent.com/u/201389240?v=4)
+
+**Genixify — Supercharge your productivity with innovative scripts! 🚀**
+
+
 # Welcome to Genixify
 
 [![GitHub followers](https://img.shields.io/github/followers/Genixify?label=Follow&style=social)](https://github.com/Genixify)
