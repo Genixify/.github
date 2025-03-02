@@ -4,7 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Genixify?label=Follow&style=social)](https://github.com/Genixify)
 [![GitHub stars](https://img.shields.io/github/stars/Genixify?label=Stars)](https://github.com/Genixify)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+---
 
 At **Genixify**, we are passionate about boosting productivity through cutting-edge scripts and tools. Our mission is to automate tasks, streamline workflows, and enhance efficiency.
 
