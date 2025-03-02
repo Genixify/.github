@@ -68,8 +68,9 @@
 - [**Ayush**](https://github.com/ayusharyaneth)  
 > 🚀 Passionate about automation, scripting, and innovation.  
 
-<p> 🎯 **Want to Join Genixify?**  
-We are invite-only, but if you believe you can add value, **reach out!** </p>
+<p> 🎯 Want to Join Genixify?
+
+We are invite-only, but if you believe you can add value, reach out! </p>
 
 ---
 ## 🌍 Connect With US
