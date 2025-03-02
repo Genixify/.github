@@ -32,10 +32,6 @@ Ayush Aryan is a passionate software developer with a knack for creating impactf
 
 At Genixify, we are proud of our diverse range of projects. Here are some highlights:
 
-### Monad
-
-[Monad](https://github.com/ayusharyaneth/monad) is a fully automated Web3 bot with multi-wallet support, proxy integration, smart gas adjustment, anti-ban mechanisms, and Telegram control. It tracks transactions with success rate stats and heatmaps. Start once on VPS and manage everything from Telegram!
-
 ### Prompts
 
 [Prompts](https://github.com/ayusharyaneth/prompts) is a curated collection of ChatGPT prompts designed to enhance your experience with ChatGPT and other LLM tools.
@@ -53,14 +49,26 @@ We are always looking for talented individuals to join our team and contribute t
 5. Push to the branch (`git push origin feature/your-feature`)
 6. Create a new Pull Request
 
+<!-- Technologies We Use -->
 ## 🛠 Technologies We Use
 
-We specialize in a variety of technologies and tools to develop our scripts and solutions, including but not limited to:
+<h3 align="center">⚡ JavaScript & Node.js</h3>  
+<p align="center">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
+</p>  
 
-- **Python** 🐍
-- **JavaScript** 🌐
-- **Bash** 📜
-- **GitHub Actions** ⚙️
+<h3 align="center">🐍 Python & Django</h3>  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
+</p>  
+
+<!-- ANIMATED SEPARATOR -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 
 ## License
