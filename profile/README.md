@@ -1,6 +1,4 @@
-# Genixify
-
-![Genixify Logo](https://avatars.githubusercontent.com/u/201389240?v=4)
+# 🌟 Welcome to Genixify! 🌟 #
 
 **Genixify — Supercharge your productivity with innovative scripts! 🚀**
 
