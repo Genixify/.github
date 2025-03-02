@@ -69,12 +69,6 @@ We are always looking for talented individuals to join our team and contribute t
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌍 Connect With US
 
 Feel free to reach out to us with any questions or inquiries
