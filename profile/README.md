@@ -75,18 +75,19 @@ We are always looking for talented individuals to join our team and contribute t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact Us
+## 🌍 Connect With US
 
-Feel free to reach out to us with any questions or inquiries:
+Feel free to reach out to us with any questions or inquiries
 
-- GitHub: [Genixify](https://github.com/Genixify)
-- Email: [contact@genixify.com](mailto:contact@genixify.com)
+<p align="center">
+  <a href="https://t.me/AyushAryaneth">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a> </a>
+  <a href="https://x.com/ayusharyaneth" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
+  </a>
+</p>
 
-Thank you for visiting our organization!
-
-
-
- 
 <!-- ANIMATED SEPARATOR -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
