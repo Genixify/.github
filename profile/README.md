@@ -1,5 +1,19 @@
 ## 🌟 Welcome to Genixify! ##
 
+
+Genixify
+<!-- Profile Views and Followers -->
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ayusharyaneth&label=Profile%20Views&color=blue&style=flat" alt="Genixify" />  
+</p>
+  <p align="center">
+  <a href="https://github.com/Genixify?tab=followers"><img src="https://img.shields.io/github/followers/Genixify?label=Followers&style=social" alt="GitHub Followers"></a>  
+  <a href="https://github.com/Genixify?tab=stars"><img src="https://img.shields.io/github/stars/Genixify?label=Stars&style=social" alt="Stars"></a>  
+
+</p> 
+
+
 **Genixify — Supercharge your productivity with innovative scripts! 🚀**
 
 
