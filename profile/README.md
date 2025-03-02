@@ -104,7 +104,7 @@ Thank you for visiting our organization!
  
 <p align="center">
     Copyright &copy; 2025-present 
-    <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
+    <a href="https://github.com/Genixify" target="_blank">Ayush</a>
   </p>
 
 
