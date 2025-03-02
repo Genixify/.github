@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🔒Private%20&%20Exclusive-Organization-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/ayusharyaneth?style=social">
+  <img src="https://img.shields.io/github/followers/Genixify?style=social">
   <img src="https://img.shields.io/github/stars/Genixify?style=social">
 </div>
 
