@@ -1,23 +1,12 @@
 ## 🌟 Welcome to Genixify! ##
 
+**Genixify — Supercharge your productivity with innovative scripts! 🚀**
 
-<!-- Followers -->
-
-
+<!-- Followers and Stars -->
   <p align="center">
   <a href="https://github.com/Genixify?tab=followers"><img src="https://img.shields.io/github/followers/Genixify?label=Followers&style=social" alt="GitHub Followers"></a>  
   <a href="https://github.com/Genixify?tab=stars"><img src="https://img.shields.io/github/stars/Genixify?label=Stars&style=social" alt="Stars"></a>  
-
 </p> 
-
-
-**Genixify — Supercharge your productivity with innovative scripts! 🚀**
-
-
-<p allign=center>
-[![GitHub followers](https://img.shields.io/github/followers/Genixify?label=Follow&style=social)](https://github.com/Genixify)
-[![GitHub stars](https://img.shields.io/github/stars/Genixify?label=Stars)](https://github.com/Genixify)
-</p>
 
 ---
 
