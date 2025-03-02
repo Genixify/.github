@@ -61,16 +61,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 👥 Meet the Team  
 
-👑 **Founder & Lead**  
+## 🏆 Meet the Team  
 
-- [**Ayush**](https://github.com/ayusharyaneth)  
-> 🚀 Passionate about automation, scripting, and innovation.  
+### **👨‍💻 Founder & Lead**  
+- **Ayush** – [GitHub](https://github.com/ayusharyaneth) | [Twitter](https://x.com/ayusharyaneth) | [Telegram](https://t.me/ayusharyaneth) 
 
-<p> 🎯 Want to Join Genixify?
+### 🎯 **Want to Join Genixify?**
 
-We are invite-only, but if you believe you can add value, reach out! </p>
+We are invite-only, but if you believe you can add value, reach out!
+
 
 ---
 ## 🌍 Connect With US
