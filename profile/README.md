@@ -2,8 +2,11 @@
 
 **Genixify — Supercharge your productivity with innovative scripts! 🚀**
 
+
+<div allign=center>
 [![GitHub followers](https://img.shields.io/github/followers/Genixify?label=Follow&style=social)](https://github.com/Genixify)
 [![GitHub stars](https://img.shields.io/github/stars/Genixify?label=Stars)](https://github.com/Genixify)
+</div>
 
 ---
 
