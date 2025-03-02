@@ -1,4 +1,4 @@
-# 🌟 Welcome to Genixify! 🌟 #
+## 🌟 Welcome to Genixify! ##
 
 **Genixify — Supercharge your productivity with innovative scripts! 🚀**
 
@@ -6,9 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Genixify?label=Stars)](https://github.com/Genixify)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# 🌟 Welcome to Genixify! 🌟
-
-🚀 **Supercharge your productivity with innovative scripts!** 🚀
 
 At **Genixify**, we are passionate about enhancing productivity through the development and deployment of cutting-edge scripts and tools. Our mission is to provide innovative solutions that help automate tasks, streamline workflows, and boost overall efficiency.
 
