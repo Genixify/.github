@@ -6,8 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Genixify?label=Stars)](https://github.com/Genixify)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-
-At **Genixify**, we are passionate about enhancing productivity through the development and deployment of cutting-edge scripts and tools. Our mission is to provide innovative solutions that help automate tasks, streamline workflows, and boost overall efficiency.
+At **Genixify**, we are passionate about boosting productivity through cutting-edge scripts and tools. Our mission is to automate tasks, streamline workflows, and enhance efficiency.
 
 ![Genixify Banner](https://avatars.githubusercontent.com/u/201389240?v=4)
 
