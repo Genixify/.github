@@ -50,6 +50,16 @@ We are always looking for talented individuals to join our team and contribute t
 5. Push to the branch (`git push origin feature/your-feature`)
 6. Create a new Pull Request
 
+## 🛠 Technologies We Use
+
+We specialize in a variety of technologies and tools to develop our scripts and solutions, including but not limited to:
+
+- **Python** 🐍
+- **JavaScript** 🌐
+- **Bash** 📜
+- **GitHub Actions** ⚙️
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
